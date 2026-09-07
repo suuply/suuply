@@ -17,12 +17,12 @@
   - 캡스톤 디자인: CNN 모델을 활용한 실시간 객체 인식 및 분류 기능 구현
 - **실시간 입찰 중고 거래 경매 플랫폼**
   - 실시간 데이터 처리 기술을 적용한 웹 백엔드 시스템 구축
-- **현대자동차 HINT 프로그램 참여**
-  - 임베디드 AI 소프트웨어 설계 및 상용차(STUDIO FOOD HUB EV) 콘셉트 기획
 - **CNC 강재 절단 모니터링 시스템**
   - 공정 자동화를 위한 소프트웨어 아키텍처 구상
 - **파스텔 창업동아리** (LINC 3.0 우수상 수상)
 - **K-Move IT 융합 과정 (750시간 수료)**
+- **현대자동차 HINT 프로그램 참여**
+  - 임베디드 AI 소프트웨어 설계 및 상용차(STUDIO FOOD HUB EV) 콘셉트 기획
 
 ## 🌐 Language & Hobbies
 - **Languages:** Korean (Native), Japanese (Business Level, K-Move 과정 수료)
