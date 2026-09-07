@@ -1,5 +1,5 @@
-# 💡 Hello, I'm YeJoon Park (@suuply)
-**인공지능(AI)과 백엔드, 임베디드 소프트웨어 환경을 아우르는 문제 해결형 INTP 개발자입니다.** 
+# Hello, I'm YEJUNPARK
+**인공지능과 백엔드, 임베디드 소프트웨어 개발자를 준비하는 취준생 입니다.** 
 
 
 ## 🛠️ Tech Stack
@@ -26,7 +26,7 @@
 
 ## 🌐 Language & Hobbies
 - **Languages:** Korean (Native), Japanese (Business Level, K-Move 과정 수료)
-- **Hobbies:** 축구 (윙백), 요리
+- **Hobbies:** 축구, 요리
 
 ## 📊 GitHub Stats
 <div align="center">
