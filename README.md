@@ -2,13 +2,17 @@
 **안녕하세요. 인공지능과 백엔드, 임베디드 소프트웨어 예비 개발자 박예준입니다.**
 
 ## 🛠️ Tech Stack
+
 **Languages & Backend**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white"/>
 
 **AI & Data**
+
 <img src="https://img.shields.io/badge/Deep Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/CNN-4285F4?style=flat-square&logo=Keras&logoColor=white"/>
 
 **Tools & Environment**
+
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-1C1C1C?style=flat-square"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/CANdb++-00529B?style=flat-square"/> <img src="https://img.shields.io/badge/LDF Explorer-00529B?style=flat-square"/>
 
 ## 🚀 Key Projects
@@ -18,8 +22,11 @@
   - Flask 기반 웹 애플리케이션으로 경매 등록·입찰, 찜 목록, 메시지, 후기·신고, 관리자 화면 구현
 
 ## 🎓 Education & Training
-- **K-Move IT 융합 과정** — 750시간 수료
-- **현대자동차 HINT 프로그램** — 임베디드 AI 소프트웨어 설계
+- **K-MOVE 일본 IT 양성과정(9기)** — 750시간 수료
+  - 일본어 실무 커뮤니케이션 및 IT 소프트웨어 개발 교육
+- **현대자동차 HINT 임베디드 AI(SW) 과정 수료** — 464시간
+  - 임베디드 AI 소프트웨어와 차량 통신(CAN/LIN) 학습
+  - FreeRTOS 기반 CAN/LIN Gateway 프로젝트 실습
 
 ## 🌐 Language & Hobbies
 - **Languages:** Korean (Native), Japanese (Business Level, K-Move 과정 수료)
