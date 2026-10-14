@@ -25,11 +25,10 @@
 - **K-MOVE 일본 IT 양성과정(9기)** — 750시간 수료
   - 일본어 실무 커뮤니케이션 및 IT 소프트웨어 개발 교육
 - **현대자동차 HINT 임베디드 AI(SW) 과정 수료** — 464시간
-  - 임베디드 AI 소프트웨어와 차량 통신(CAN/LIN) 학습
-  - FreeRTOS 기반 CAN/LIN Gateway 프로젝트 실습
+  - 임베디드 AI 소프트웨어, FreeRTOS, CAN/LIN 차량 통신 기초 학습
 
 ## 🌐 Language & Hobbies
-- **Languages:** Korean (Native), Japanese (Business Level, K-Move 과정 수료)
+- **Languages:** Korean (Native), Japanese (Business Level, K-MOVE 과정 수료)
 - **Hobbies:** 축구, 요리
 
 ## 📊 GitHub Stats
